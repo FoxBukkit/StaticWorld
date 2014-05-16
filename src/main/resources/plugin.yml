@@ -1,0 +1,4 @@
+name: StaticWorld
+main: de.doridian.staticworld.StaticWorld
+version: 1.0.0
+
