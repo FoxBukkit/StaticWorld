@@ -1,4 +1,4 @@
 name: StaticWorld
-main: de.doridian.staticworld.StaticWorld
+main: com.foxelbox.staticworld.StaticWorld
 version: 1.0.0
 
